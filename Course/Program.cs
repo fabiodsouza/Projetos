@@ -11,12 +11,12 @@ namespace Course
             var x = 10;
             var y = 20.0;
             var z = "Jão";
-            var i = "Maria";
+            var w = 33;
 
             Console.WriteLine(z);
             Console.WriteLine(x);
             Console.WriteLine(y);
-            Console.WriteLine(i);
+            Console.WriteLine(w);
 
         }
     }
